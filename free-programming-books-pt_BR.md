@@ -72,7 +72,8 @@
 * [Tudo sobre Meteor](http://udgwebdev.com/meteor)
 
 ### Php
-* [PHP](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
+* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
+* [PHP Do jeito certo](http://br.phptherightway.com/)
 
 ### LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
@@ -81,6 +82,7 @@
 ### Python
 * [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
+* [Desenvolvimento web com Python e web2py!](https://dl.dropboxusercontent.com/u/830444/apostila_web2py_basico.pdf)
 
 
 ### RegEx

@@ -11,6 +11,7 @@
 * [C++](#c-1)
 * [CoffeeScript](#coffeescript)
 * [Git](#git)
+* [Go](#go)
 * [Erlang](#erlang)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -114,6 +115,10 @@
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
 
+### Go
+* [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
+
+
 ### Erlang
 * [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang) - Джо Армстронг
 
@@ -130,6 +135,7 @@
 
 ### Lisp
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
+* [Practical Common Lisp(translation)](http://lisper.ru/pcl/)
 
 
 ### MetaPost

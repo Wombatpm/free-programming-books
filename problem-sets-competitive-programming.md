@@ -23,10 +23,12 @@
 
 ### Problem Sets
 * [Anarchy Golf](http://golf.shinh.org/)
+* [CareerCup](http://www.careercup.com/)
 * [Caribbean Online Judge](http://coj.uci.cu/24h/problems.xhtm)
 * [CheckIO](http://www.checkio.org/)
 * [CodeHunt](https://www.codehunt.com/)
 * [Coding Bat](http://codingbat.com/java)
+* [Exercism](http://exercism.io/)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
 * [Hacker.org](http://www.hacker.org/)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
